@@ -35,7 +35,7 @@
     </script>
 </head>
 <body>
-    <h1>Conversão de Reais para Dólares (API)</h1>
+    <h1 style="color: rgb(255, 251, 0);">Conversão de Reais para Dólares (API)</h1>
 
     <label for="valorReais">Digite o valor em reais:</label>
     <input type="number" id="valorReais" placeholder="Valor em reais"><br><br>
